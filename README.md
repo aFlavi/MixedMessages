@@ -39,7 +39,7 @@ Project is: _in progress_
 To do:
 - Array to store data.
 - Selected Teams (20 teams cannot against each other.)
-- Scores.
+- Scores (Limited to 5 goals each for realism).
 - output message in correct format.
 
 
